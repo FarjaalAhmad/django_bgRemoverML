@@ -1,0 +1,12 @@
+{% load static %}
+<html>
+<form method="post" enctype="multipart/form-data">
+  <input type="file" name="image">
+  <button type="submit">Upload</button>
+</form>
+
+{% if image_path %}
+  <p>Your Image: <br>
+    <a href="{{ image_path }}" target="_blank"><img src="{{ image_path }}" alt="image here"></a></p>
+{% endif %}
+</html>

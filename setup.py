@@ -120,9 +120,8 @@ def setup():
                     pass
 
 
+# def cli(model_name):
 def cli():
-    # print("Choose which model you want to install:\n{}\nall".format('\n'.join(MODELS_NAMES)))
-    # model_name = input("Enter model name: ")
     # if model_name == "all":
     #     setup()
     # elif model_name == "u2net":
@@ -174,4 +173,6 @@ def cli():
     print("Setup finished! :)")
 
 
-cli()
+# cli(u2net)
+# cli(basnet)
+# cli(u2netp)
