@@ -120,7 +120,6 @@ def setup():
                     pass
 
 
-# def cli(model_name):
 def cli():
     model_name = "all"
     if model_name == "all":
@@ -173,6 +172,4 @@ def cli():
     print("Setup finished! :)")
 
 
-# cli(u2net)
-# cli(basnet)
-# cli(u2netp)
+cli()
