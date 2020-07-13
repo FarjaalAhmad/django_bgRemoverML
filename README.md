@@ -15,7 +15,10 @@ Site URL: http://localhost:8000
 For API Usage
 =============
 Make a POST request to http://localhost:8000/upload with the Following parameters.
-
-image=[BASE64 ENCODED IMAGE HERE]
+	
+	image=[BASE64 ENCODED IMAGE HERE]
+	
+### To be Added Later:
+- Design a Good Looking Frontend
 
 #### Contact: farjaalahmad[at]gmail.com
