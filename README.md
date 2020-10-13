@@ -23,7 +23,7 @@ Make a POST request to http://localhost:8000/upload with the Following parameter
 
 ### Known Bugs:
 <b>Memory Leak Issue.<b>
-	Memory doesn't get released after Processing the Images. Memory Exaustion cause the crash of server.
+	Memory doesn't get released after Processing the Images. Memory Exhaustion cause the crash of server.
 
 If someone can fix this bug, please fix this bug and make a Pull Request. Thanks <3
 
