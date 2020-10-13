@@ -21,4 +21,11 @@ Make a POST request to http://localhost:8000/upload with the Following parameter
 ### To be Added Later:
 - Design a Good Looking Frontend
 
+### Known Bugs:
+<b>Memory Leak Issue.<b>
+	Memory doesn't release after Processing the Images. Memory Exaustion cause the crash of server.
+
+If someone can fix this bug, please fix this bug and make a Pull Request. Thanks <3
+
+
 #### Contact: farjaalahmad[at]gmail.com
