@@ -1,5 +1,6 @@
 import argparse
 import os
+import gc
 import tqdm
 import logging
 from libs.strings import *
@@ -40,10 +41,12 @@ def __save_image_file__(img, file_name, output_path, wmode):
             file_name = os.path.splitext(file_name)[0] + '.png'
             # Save image
             img.save(os.path.join(output_path, file_name))
+            gc.collect()
         else:
             try:
                 # Save image
                 img.save(output_path)
+                gc.collect()
             except OSError as e:
                 if str(e) == "cannot write mode RGBA as JPEG":
                     raise OSError("Error! "
@@ -55,6 +58,7 @@ def __save_image_file__(img, file_name, output_path, wmode):
         file_name = os.path.splitext(file_name)[0] + '.png'
         # Save image
         img.save(os.path.join(output_path, file_name))
+        gc.collect()
 
 
 def process(input_path, output_path, model_name="u2net",
