@@ -11,9 +11,7 @@ A Machine Learning Project integrated with Django to Remove Background from Imag
 
 Site URL: http://localhost:8000
 
-### Usage:
-For API Usage
-=============
+### For API Usage:
 Make a POST request to http://localhost:8000/upload with the Following parameters.
 	
 	image=[BASE64 ENCODED IMAGE HERE]
