@@ -5,7 +5,7 @@ A Machine Learning Project integrated with Django to Remove Background from Imag
 - git clone https://github.com/FarjaalAhmad/django_bgRemoverML
 - cd django_bgRemoverML
 - pip3 install -r requirements.txt
-- python3 setup.py
+- bash setup.sh
 - python3 manage.py migrate
 - python3 manage.py runserver
 
@@ -19,13 +19,10 @@ Make a POST request to http://localhost:8000/upload with the Following parameter
 	image=[BASE64 ENCODED IMAGE HERE]
 	
 ### To be Added Later:
-- Design a Good Looking Frontend
+- Design a Good Looking Front-end.
 
-### Known Bugs:
-- <b>Memory Leak Issue.<b>
-	Memory doesn't get released after Processing the Images. Memory Exhaustion cause the crash of server.
+### Bugs:
+- If you found any bugs, Create an Issue.
 
-If someone can fix this bug, please fix this bug and make a Pull Request. Thanks <3
-
-
-#### Contact: farjaalahmad[at]gmail.com
+### Contribution:
+- If you want to Contribute into this Project, Feel free to make Pull Request.
