@@ -16,11 +16,11 @@ Make a POST request to http://localhost:8000/upload with the Following parameter
 	
 	image=[BASE64 ENCODED IMAGE HERE]
 	
-### To be Added Later:
+### To be Added:
 - Design a Good Looking Front-end.
 
 ### Bugs:
-- If you found any bugs, Create an Issue.
+- If you found any bugs, Feel Free to create an Issue.
 
 ### Contribution:
 - If you want to Contribute into this Project, Feel free to make Pull Request.
