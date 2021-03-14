@@ -23,4 +23,4 @@ mv u2netp.pth ../models/u2netp/
 cd ../
 rm deeplabv3_mnv2_pascal_train_aug_2018_01_29.tar.gz
 rm deeplabv3_pascal_train_aug_2018_01_04.tar.gz
-rm -rf setup*
+rm -rf setup/
