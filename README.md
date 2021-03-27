@@ -27,3 +27,6 @@ image=[BASE64 ENCODED IMAGE HERE]
 ### Contribution:
 
 - If you want to Contribute into this Project, Feel free to make Pull Request.
+<a href="https://github.com/FarjaalAhmad/django_bgRemoverML/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=FarjaalAhmad/django_bgRemoverML" />
+</a>
