@@ -29,7 +29,7 @@ numpy==1.18.5
 oauthlib==3.1.0
 opencv-python==4.3.0.36
 opt-einsum==3.2.1
-Pillow==8.1.1
+Pillow==8.2.0
 portalocker==1.7.0
 protobuf==3.12.2
 pyasn1==0.4.8
