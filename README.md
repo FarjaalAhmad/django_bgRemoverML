@@ -24,6 +24,11 @@ image=[BASE64 ENCODED IMAGE HERE]
 
 - If you found any bugs, Feel Free to create an Issue.
 
+### Deployment:
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=42d61c4435ff&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+You can register here and Get $100 Free for 2 months.
+
 ### Contribution:
 
 - If you want to Contribute into this Project, Feel free to make Pull Request.
