@@ -32,7 +32,7 @@ for url in ${urls[@]}; do
 done
 
 PYTHON_PATH="$(which python3)"
-SETUP_DIR="${WORKING_DIR}/setup/"
+SETUP_DIR="${WORKING_DIR}/setup"
 DOWNLOAD_SCRIPT_PY="${SETUP_DIR}/download.py"
 
 # Install gdown if not installed, without this package globaly the installation will fail
