@@ -35,3 +35,6 @@ You can register here and Get $100 Free for 2 months.
 <a href="https://github.com/FarjaalAhmad/django_bgRemoverML/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=FarjaalAhmad/django_bgRemoverML" />
 </a>
+<hr>
+
+### Sorry Guys, I'm not able to give any time to this project. Sorry to say but I'm archiving this project. If anybody wants to continue developing/contributing to this project, You can mail me to become a collaborator or fork and continue on your own (Don't forget to send me your repo link, I'll mention that in my readme.md file so that people will follow your new one.
