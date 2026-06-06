@@ -36,3 +36,36 @@ You can register here and Get $100 Free for 2 months.
   <img src="https://contributors-img.web.app/image?repo=FarjaalAhmad/django_bgRemoverML" />
 </a>
 <hr>
+
+## 🚀 Relaunch Roadmap (v2.0)
+
+The project is actively being relaunched after a hiatus. Here's what's planned:
+
+### ✅ Phase 1 — Foundation (In Progress)
+- [ ] Unarchive and modernize project structure
+- [ ] Upgrade dependencies to current stable versions
+- [ ] Add Docker & Docker Compose support for easy self-hosting
+- [ ] Set up CI/CD pipeline (GitHub Actions)
+
+### 🔬 Phase 2 — ML Improvements
+- [ ] Replace legacy model with U²-Net / ONNX for better accuracy & speed
+- [ ] Add support for batch image processing
+- [ ] GPU acceleration support (optional, via config)
+
+### 🌐 Phase 3 — API & Developer Experience
+- [ ] Rewrite REST API with async Django (or FastAPI migration option)
+- [ ] Add proper API authentication (token-based)
+- [ ] OpenAPI / Swagger docs
+- [ ] Python SDK / client library
+
+### 🧪 Phase 4 — Quality & Reliability
+- [ ] Write unit and integration tests (target 80%+ coverage)
+- [ ] Add pre-commit hooks and linting (black, flake8, isort)
+- [ ] Automated PR review and issue triage
+
+### 📦 Phase 5 — Distribution
+- [ ] Publish Docker image to Docker Hub
+- [ ] PyPI package for the core ML pipeline
+- [ ] Hosted demo
+
+---
