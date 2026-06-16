@@ -21,7 +21,7 @@ idna==2.10
 imageio==2.9.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
-Markdown==3.2.2
+Markdown==3.8.1
 matplotlib==3.2.2
 mxnet==1.6.0
 networkx==2.4
