@@ -17,7 +17,7 @@ google-pasta==0.2.0
 graphviz==0.8.4
 grpcio==1.30.0
 h5py==2.10.0
-idna==2.10
+idna==3.15
 imageio==2.9.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
